@@ -1,0 +1,8 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\bin\Debug\disconnectModelADO.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\bin\Debug\DisconnectedModelDB.mdf
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\bin\Debug\DisconnectedModelDB_log.ldf
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\bin\Debug\disconnectModelADO.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\bin\Debug\disconnectModelADO.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\obj\Debug\disconnectModelADO.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\obj\Debug\disconnectModelADO.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\disconnectModelADO\disconnectModelADO\obj\Debug\disconnectModelADO.pdb
